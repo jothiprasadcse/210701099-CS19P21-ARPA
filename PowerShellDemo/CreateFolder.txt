@@ -1,0 +1,1 @@
+ New-Item -Path . -ItemType "director" -Name "REC"
